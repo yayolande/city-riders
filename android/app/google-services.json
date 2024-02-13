@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942019749258",
+    "project_id": "city-riders-fc948",
+    "storage_bucket": "city-riders-fc948.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942019749258:android:4d77c3284f2fe1f609d473",
+        "android_client_info": {
+          "package_name": "com.example.city_riders"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZf8rU0OtggIe53c2eigc-EiLKw849sU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
